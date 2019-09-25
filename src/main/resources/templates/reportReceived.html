@@ -2,15 +2,37 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
     <title>Report Received</title>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!--    Main Bootstrap Reference    -->
+    <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="/vendor/bootstrap/js/bootstrap.js"></script>
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+
+    <style>
+        body, html {
+            height:100%;
+        }
+    </style>
 </head>
 <body>
 
-<h1>Result</h1>
+<div class="container h-100">
+    <div class="row h-100 justify-content-center align-items-center">
+        <div class="col-12 card border">
+            <div>
+                <h1 class="display-4">Result</h1>
 
-<p th:text="'Route Name:' + ${route.routeName}"></p>
-<p th:text="'Route Number: ' + ${route.busNumber}"></p>
-<a href="/reportArrival">Submit another arrival</a>
-
+                <p th:text="'Route Name:' + ${route.routeName}"></p>
+                <p th:text="'Route Number: ' + ${route.busNumber}"></p>
+                <a href="/reportArrival">Submit another arrival</a>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>
