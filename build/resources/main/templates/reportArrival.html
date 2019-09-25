@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Report Arrival</title>
+</head>
+<body>
+<form action="#" th:action="@{/reportArrival}" th:object="${route}" method="post">
+    <p>
+        Name of Route: <input type="text" th:field="*{routeName}">
+    </p>
+    <p>
+        Bus Number: <input type="text" th:field="*{busNumber}">
+    </p>
+    <p>
+        <input type="submit" value="Submit"/> <input type="reset" value="Reset">
+    </p>
+</form>
+</body>
+</html>

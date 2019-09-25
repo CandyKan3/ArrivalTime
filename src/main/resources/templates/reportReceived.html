@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Report Received</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+<h1>Result</h1>
+
+<p th:text="'Route Name:' + ${route.routeName}"></p>
+<p th:text="'Route Number: ' + ${route.busNumber}"></p>
+<a href="/reportArrival">Submit another arrival</a>
+
+</body>
+</html>
