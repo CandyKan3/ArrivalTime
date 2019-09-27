@@ -13,6 +13,86 @@
     <script src="/vendor/bootstrap/js/bootstrap.js"></script>
     <script src="/vendor/bootstrap/js/bootstrap.bundle.js"></script>
 
+    <script>
+        var silver_route_stops = {
+            "(1) CRI Deck": 585,
+            "(2) PORTAL East": 586,
+            "(3) Duke Centennial Hall East": 587,
+            "(4) Grigg Hall East": 588,
+            "(5) EPIC North": 589,
+            "(6) Athletics Complex East": 590,
+            "(7) Woodward Hall East": 591,
+            "(8) Student Union East": 592,
+            "(9) Aux Services East": 593,
+            "(10) Hickory Hall North": 594,
+            "(11) Student Health North": 595,
+            "(12) Martin Hall": 596,
+            "(13) Lot 6": 597,
+            "(14) Lot 5A": 598,
+            "(15) East Deck 2": 600,
+            "(16) Fretwell North": 601,
+            "(17) Aux Services West": 602,
+            "(18) Student Union West": 603,
+            "(20) Athletics Complex West": 604,
+            "(21) EPIC South": 605,
+            "(22) Grigg Hall West": 606,
+            "(55) MotorSports": 607,
+            "(23) PORTAL West": 608
+        };
+        var green_route_stops = {
+            "(42) Wallis Hall West / Light Rail": 558,
+            "(43) Union Deck/Belk Hall South": 559,
+            "(7) Woodward Hall East": 560,
+            "(8) Student Union East": 561,
+            "(9) Aux Services East": 563,
+            "(37) Fretwell South": 567,
+            "(38) Cato Hall South": 565,
+            "(39) Robinson Hall South": 566,
+            "(44) Reese West": 570,
+            "(45) Cone Deck West": 571,
+            "(49) Alumni Way East": 572,
+            "(46) South Village Deck": 573,
+            "(47) Levine Hall East": 574,
+            "(31) Robinson Hall North": 575,
+            "(32) Cato Hall North": 577,
+            "(16) Fretwell North": 578,
+            "(10) Hickory Hall North": 581,
+            "(11) Student Health North": 582,
+            "(41) FM/PPS West": 583,
+            "(48) North Deck": 584
+        };
+        var gold_route_stops = {
+            "(34) Wallis Hall East / Light Rail": 709,
+            "(35) FM/PPS/Student Health East": 710,
+            "(36) Hickory Hall South": 711,
+            "(37) Fretwell South": 712,
+            "(38) Cato Hall South": 713,
+            "(39) Robinson Hall South": 714,
+            "(40) Levine Hall West": 715,
+            "(24) Hunt Hall": 716,
+            "(29) Cone Deck": 717,
+            "(30) Reese East": 718,
+            "(31) Robinson Hall North": 719,
+            "(32) Cato Hall North": 720,
+            "(16) Fretwell North": 721,
+            "(17) Aux Services West": 722,
+            "(18) Student Union West": 723,
+            "(33) Union Deck/Belk Hall North": 724
+        };
+        var copper_route_stops = {
+            "(42) Wallis Hall West / Light Rail": 681,
+            "(56) West Deck South": 692,
+            "(25) Harris Alumni Center South": 682,
+            "(26) Foundation Bldg South": 683,
+            "(27) Foundation Bldg North": 684,
+            "(28) Harris Alumni Center North": 685,
+            "(47) Levine Hall East": 686,
+            "(30) Reese West": 688,
+            "(57) West Deck North": 693,
+            "(8) Student Union East": 689,
+        }
+    </script>
+
     <style>
         body, html {
             height:100%;
@@ -25,28 +105,34 @@
         <form action="#" th:action="@{/reportArrival}" th:object="${route}" method="post" class="col-12 card" style="padding: 25px;">
             <div class="form-group">
                 <label for="busRouteSelector">Name of Route:</label>
-                <select class="form-control" id="busRouteSelector" th:field="*{routeName}">
-                    <option value="silver_route">Silver Route</option>
-                    <option value="gold_route">Gold Route</option>
-                    <option value="green_route">Green Route</option>
-                    <option value="copper_route">Copper Route</option>
+                <select class="form-control" id="busRouteSelector" th:field="*{RouteID}">
+                    <option value="27">Silver Route</option>
+                    <option value="34">Gold Route</option>
+                    <option value="26">Green Route</option>
+                    <option value="32">Copper Route</option>
                 </select>
             </div>
             <div class="form-group">
                 <label for="busNumberSelector">Bus Number:</label>
-                <select class="form-control" id="busNumberSelector" th:field="*{busNumber}">
-                    <option value="2401">2401</option>
-                    <option value="2402">2402</option>
-                    <option value="2403">2403</option>
-                    <option value="2404">2404</option>
-                    <option value="2405">2405</option>
-                    <option value="2406">2406</option>
-                    <option value="2407">2407</option>
-                    <option value="2408">2408</option>
-                    <option value="2409">2409</option>
-                    <option value="2410">2410</option>
-                    <option value="2411">2411</option>
-                    <option value="2412">2412</option>
+                <select class="form-control" id="busNumberSelector" th:field="*{VehicleID}">
+                    <option value="44">2401</option>
+                    <option value="36">2402</option>
+                    <option value="46">2403</option>
+                    <option value="64">2404</option>
+                    <option value="49">2405</option>
+                    <option value="00">2406</option>
+                    <option value="48">2407</option>
+                    <option value="38">2408</option>
+                    <option value="39">2409</option>
+                    <option value="43">2410</option>
+                    <option value="01">2411</option>
+                    <option value="47">2412</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="busNumberSelector">Bus Number:</label>
+                <select class="form-control" id="busStopSelector" th:field="*{RouteStopID}">
+
                 </select>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>

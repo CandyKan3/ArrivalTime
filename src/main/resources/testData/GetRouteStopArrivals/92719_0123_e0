@@ -1,0 +1,4711 @@
+[
+  {
+    "RouteID": 21,
+    "RouteStopID": 423,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605760000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605760000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606660000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606660000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 424,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605940000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605940000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 425,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606120000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606120000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 426,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606300000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606300000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 427,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605580000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605580000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606480000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606480000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 428,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605760000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605760000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606660000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606660000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 429,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606000000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606000000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 430,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606120000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606120000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 431,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606300000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606300000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 432,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606420000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606420000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 433,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605700000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605700000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606600000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606600000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 434,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605820000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605820000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606720000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606720000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 435,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605940000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605940000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 436,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606000000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606000000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 437,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606120000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606120000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 438,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605280000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605280000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606180000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606180000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 439,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606240000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606240000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 440,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606360000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606360000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 441,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605580000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605580000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606480000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606480000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 442,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605700000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605700000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606600000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606600000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 443,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605880000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605880000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606780000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606780000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 444,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606000000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606000000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 445,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606120000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606120000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 446,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606300000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606300000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 447,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606420000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606420000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 21,
+    "RouteStopID": 448,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605700000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605700000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606600000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606600000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 22,
+    "RouteStopID": 449,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606300000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606300000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 22,
+    "RouteStopID": 450,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569606120000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Bus_1",
+        "DepartureTimeUTC": "\/Date(1569606120000)\/"
+      }
+    ],
+    "VehicleEstimates": []
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 558,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604620000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604620000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605160000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605160000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 105,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 581,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 802,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 559,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604680000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604680000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 159,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 635,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 856,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 560,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604740000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604740000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605280000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605280000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 227,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 703,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 924,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 561,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 279,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 755,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 976,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 563,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604860000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604860000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 328,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 804,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1025,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 567,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604920000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604920000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 386,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 862,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1083,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 565,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-2",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 23,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 447,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 923,
+        "VehicleID": 48
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 566,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604500000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604500000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 70,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 494,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 970,
+        "VehicleID": 48
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 570,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604560000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604560000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 164,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 588,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1064,
+        "VehicleID": 48
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 571,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604620000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604620000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605160000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605160000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 204,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 628,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1104,
+        "VehicleID": 48
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 572,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604740000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604740000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605280000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605280000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 72,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 293,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 717,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 573,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 123,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 344,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 768,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 574,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604860000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604860000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 189,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 410,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 834,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 575,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-1",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 263,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 484,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 908,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 577,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604500000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604500000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-3",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 319,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 540,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 964,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 578,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604620000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604620000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605160000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-3",
+        "DepartureTimeUTC": "\/Date(1569605160000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 396,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 617,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1041,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 581,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604680000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604680000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-3",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 437,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 658,
+        "VehicleID": 49
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1082,
+        "VehicleID": 46
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 582,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604740000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604740000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605280000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-3",
+        "DepartureTimeUTC": "\/Date(1569605280000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 476,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 697,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 583,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-3",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 40,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 516,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 737,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 26,
+    "RouteStopID": 584,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Green-3",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 68,
+        "VehicleID": 46
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 544,
+        "VehicleID": 48
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 765,
+        "VehicleID": 49
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 585,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604680000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604680000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 223,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 480,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 789,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1106,
+        "VehicleID": 43
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 586,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604740000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604740000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605280000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605280000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 66,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 276,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 533,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 842,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1159,
+        "VehicleID": 43
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 587,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 97,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 307,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 564,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 873,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1190,
+        "VehicleID": 43
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 588,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604920000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604920000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 175,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 385,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 642,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 951,
+        "VehicleID": 64
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 589,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 25,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 200,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 410,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 667,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 976,
+        "VehicleID": 64
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 590,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604560000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604560000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_4",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 89,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 264,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 474,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 731,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1040,
+        "VehicleID": 64
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 591,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604740000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604740000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_4",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 164,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 339,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 549,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 806,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1115,
+        "VehicleID": 64
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 592,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605280000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_4",
+        "DepartureTimeUTC": "\/Date(1569605280000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 216,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 391,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 601,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 858,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1167,
+        "VehicleID": 64
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 593,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604860000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604860000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_4",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 265,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 440,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 650,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 907,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1216,
+        "VehicleID": 64
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 594,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604920000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604920000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_4",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 317,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 492,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 702,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 959,
+        "VehicleID": 39
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 595,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_4",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 39,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 356,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 531,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 741,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 998,
+        "VehicleID": 39
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 596,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_3",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 94,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 411,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 586,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 796,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1053,
+        "VehicleID": 39
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 597,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604860000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604860000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_3",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 140,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 457,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 632,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 842,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1099,
+        "VehicleID": 39
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 598,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_5",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 192,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 509,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 684,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 894,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1151,
+        "VehicleID": 39
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 600,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604860000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604860000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_5",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 230,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 547,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 722,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 932,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1189,
+        "VehicleID": 39
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 601,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_5",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 309,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 626,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 801,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1011,
+        "VehicleID": 44
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 602,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604560000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604560000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_2",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 42,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 351,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 668,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 843,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1053,
+        "VehicleID": 44
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 603,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604620000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604620000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_2",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 93,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 402,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 719,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 894,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1104,
+        "VehicleID": 44
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 604,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604920000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604920000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_2",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 212,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 521,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 838,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1013,
+        "VehicleID": 38
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1223,
+        "VehicleID": 44
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 605,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_2",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 257,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 566,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 883,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1058,
+        "VehicleID": 38
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 606,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604500000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604500000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 40,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 297,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 606,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 923,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1098,
+        "VehicleID": 38
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 607,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604560000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604560000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 101,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 358,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 667,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 984,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1159,
+        "VehicleID": 38
+      }
+    ]
+  },
+  {
+    "RouteID": 27,
+    "RouteStopID": 608,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604620000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604620000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605160000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Silver_1",
+        "DepartureTimeUTC": "\/Date(1569605160000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 169,
+        "VehicleID": 44
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 426,
+        "VehicleID": 39
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 735,
+        "VehicleID": 64
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1052,
+        "VehicleID": 43
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1227,
+        "VehicleID": 38
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 709,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 900,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 710,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604860000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604860000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605520000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605520000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 60,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 960,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 711,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604920000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604920000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605580000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605580000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 120,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1020,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 712,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604980000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604980000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605640000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605640000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 180,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1080,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 713,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604380000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604380000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605040000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605040000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 240,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1140,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 714,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604440000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604440000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 300,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1200,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 715,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604500000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604500000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605160000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605160000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 360,
+        "VehicleID": 36
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1260,
+        "VehicleID": 47
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 716,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604560000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604560000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 420,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 717,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604680000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604680000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 120,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 540,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 718,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604740000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604740000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605400000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605400000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 180,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 600,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 719,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604800000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604800000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605460000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605460000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 240,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 660,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 720,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604920000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604920000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605580000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-1",
+        "DepartureTimeUTC": "\/Date(1569605580000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 360,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 780,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 721,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604440000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604440000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605100000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605100000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 540,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 960,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 722,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604500000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604500000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605160000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605160000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 600,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1020,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 723,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604560000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604560000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605220000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605220000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 660,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1080,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 34,
+    "RouteStopID": 724,
+    "ScheduledTimes": [
+      {
+        "ArrivalTimeUTC": "\/Date(1569604680000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "",
+        "DepartureTimeUTC": "\/Date(1569604680000)\/"
+      },
+      {
+        "ArrivalTimeUTC": "\/Date(1569605340000)\/",
+        "AssignedVehicleId": 0,
+        "Block": "Gold-2",
+        "DepartureTimeUTC": "\/Date(1569605340000)\/"
+      }
+    ],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 780,
+        "VehicleID": 47
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1200,
+        "VehicleID": 36
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 451,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 429,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7346,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7346,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 452,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 724,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7641,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7641,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 453,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 996,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7913,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7913,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 454,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1204,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8121,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8121,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 456,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1794,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8711,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8711,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 457,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1840,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8757,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8757,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 458,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2214,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9131,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9131,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 459,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2681,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9598,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9598,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 460,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3110,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10027,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10027,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 461,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3614,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10531,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10531,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 462,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3999,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10916,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10916,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 463,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4071,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10988,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10988,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 464,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4436,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11353,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11353,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 465,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4805,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11722,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11722,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 466,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4999,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11916,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11916,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 467,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5602,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 12519,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 12519,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 468,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6123,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13040,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13040,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 469,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6423,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13340,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13340,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 470,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6520,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13437,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13437,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 471,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6794,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13711,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13711,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 472,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7192,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14109,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14109,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 473,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7266,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14183,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14183,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 474,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7557,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14474,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14474,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 475,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7788,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14705,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14705,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 476,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7917,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14834,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14834,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 477,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8090,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15007,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15007,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 478,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8494,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15411,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15411,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 479,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8826,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15743,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15743,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 480,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9004,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15921,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15921,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 481,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9178,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16095,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16095,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 482,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9493,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16410,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16410,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 483,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 9774,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16691,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16691,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 484,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10104,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17021,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17021,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 485,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10257,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17174,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17174,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 486,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10462,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17379,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17379,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 487,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10621,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17538,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17538,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 488,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 193,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 193,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10835,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 489,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 263,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 263,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 10905,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 490,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 555,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 555,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11197,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 491,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 926,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 926,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11568,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 492,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1274,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1274,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 11916,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 493,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1558,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1558,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 12200,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 494,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1829,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1829,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 12471,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 495,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1916,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1916,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 12558,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 496,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2204,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2204,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 12846,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 497,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2486,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2486,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13128,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 498,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2722,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2722,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13364,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 499,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2915,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 2915,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13557,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 500,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3219,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3219,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 13861,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 501,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3492,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3492,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14134,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 503,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3902,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3902,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14544,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 504,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1443,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8360,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 8360,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 505,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4191,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4191,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 14833,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 506,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4486,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4486,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15128,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 507,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4556,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4556,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15198,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 508,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4569,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4569,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15211,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 509,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4794,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 4794,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15436,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 510,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5151,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5151,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 15793,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 511,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5490,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5490,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16132,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 513,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5766,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5766,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16408,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 514,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5824,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 5824,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16466,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 515,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6054,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6054,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 16696,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 516,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6523,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6523,
+        "VehicleID": 65
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 17165,
+        "VehicleID": 58
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 517,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 0,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6917,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 6917,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 23,
+    "RouteStopID": 518,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 325,
+        "VehicleID": 58
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7242,
+        "VehicleID": 52
+      },
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 7242,
+        "VehicleID": 65
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 681,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 206,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 682,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 382,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 683,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 529,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 684,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 621,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 685,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 751,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 686,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 868,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 688,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 944,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 689,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 3,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 692,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 328,
+        "VehicleID": 6
+      }
+    ]
+  },
+  {
+    "RouteID": 32,
+    "RouteStopID": 693,
+    "ScheduledTimes": [],
+    "VehicleEstimates": [
+      {
+        "Block": "",
+        "OnRoute": true,
+        "SecondsToStop": 1039,
+        "VehicleID": 6
+      }
+    ]
+  }
+]
